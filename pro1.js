@@ -63,3 +63,9 @@ function main() {
     console.log(perimeter);
 }
 
+//!second day working
+function printoutput(s) {
+    return console.log(s);
+    
+}
+printoutput("My")
